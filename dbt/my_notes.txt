@@ -1,0 +1,6 @@
+- dbt folder is created to capture connection with dbt and cleaning/massaging part of the project. 
+- to connect to virtual environemnt under dbt 
+    1) cd /Documents/mygit/My_ETLProject-e2e-/dbt
+    2) source .venv/bin/activate
+    3) pip list (to see pip version)
+- to disconnect from virtual environment , use disconnect command
